@@ -1,440 +1,680 @@
-#images are owned by Hoyoverse and data is scrapped from genshin Impact Wiki
 [
     
     {
       "Name": "Ganyu",
       "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/d/d5/Ganyu_Dynamic_Skin.gif/revision/latest?cb=20230719001143",
-      "Source": "Genshin Impact"
+      "Source": "Genshin Impact",
+      "Faction":"Liyue",
+      "Element":"Cryo"
+
     },
     {
       "Name": "Diona",
       "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/e/e8/Diona_Dynamic_Skin.gif/revision/latest?cb=20230719001109",
-      "Source": "Genshin Impact"
+      "Source": "Genshin Impact",
+      "Faction":"Monstad",
+      "Element":"Cryo"
+
     },
     {
       "Name": "Kaeya",
       "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Kaeya_Dynamic_Skin.gif/revision/latest?cb=20230719001134",
-      "Source": "Genshin Impact"
+      "Source": "Genshin Impact",
+      "Faction":"Monstad",
+      "Element":"Cryo"
+
     },
     {
       "Name": "Chongyun",
       "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Chongyun_Dynamic_Skin.gif/revision/latest?cb=20230719001330",
-      "Source": "Genshin Impact"
+      "Source": "Genshin Impact",
+      "Faction":"Liyue",
+      "Element":"Cryo"
+
     },
     {
       "Name": "Kamisato Ayaka",
       "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Kamisato_Ayaka_Dynamic_Skin.gif/revision/latest?cb=20230719001427",
-      "Source": "Genshin Impact"
+      "Source": "Genshin Impact",
+      "Faction":"Inazuma",
+      "Element":"Cryo"
+
     },
     {
       "Name": "Eula",
       "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/1/10/Eula_Dynamic_Skin.gif/revision/latest?cb=20230719000809",
-      "Source": "Genshin Impact"
+      "Source": "Genshin Impact",
+      "Faction":"Monstad",
+      "Element":"Cryo"
+
     },
     {
       "Name": "Shenhe",
       "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/1/13/Shenhe_Dynamic_Skin.gif/revision/latest?cb=20230719001001",
-      "Source": "Genshin Impact"
+      "Source": "Genshin Impact",
+      "Faction":"Liyue",
+      "Element":"Cryo"
+
     },
     {
       "Name": "Barbara",
       "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/c/cd/Barbara_Dynamic_Skin.gif/revision/latest?cb=20230719001204",
-      "Source": "Genshin Impact"
+      "Source": "Genshin Impact",
+      "Faction":"Monstad",
+      "Element":"Hydro"
+
     },
     {
       "Name": "Xingqiu",
       "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/8/83/Xingqiu_Dynamic_Skin.gif/revision/latest?cb=20230719001317",
-      "Source": "Genshin Impact"
+      "Source": "Genshin Impact",
+      "Faction":"Liyue",
+      "Element":"Hydro"
+
     },
     {
       "Name": "Mona",
       "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/f/f6/Mona_Dynamic_Skin.gif/revision/latest?cb=20230719001101",
-      "Source": "Genshin Impact"
+      "Source": "Genshin Impact",
+      "Faction":"Monstad",
+      "Element":"Hydro"
+
     },
     {
       "Name": "Tartaglia",
       "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Tartaglia_Dynamic_Skin.gif/revision/latest?cb=20230719000827",
-      "Source": "Genshin Impact"
+      "Source": "Genshin Impact",
+      "Faction":"Snezhnaya",
+      "Element":"Hydro"
+
     },
     {
       "Name": "Sangonomiya Kokomi",
       "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Sangonomiya_Kokomi_Dynamic_Skin.gif/revision/latest?cb=20230719001350",
-      "Source": "Genshin Impact"
+      "Source": "Genshin Impact",
+      "Faction":"Inazuma",
+      "Element":"Hydro"
+
     },
     {
       "Name": "Kamisato Ayato",
       "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/3/3c/Kamisato_Ayato_Dynamic_Skin.gif/revision/latest?cb=20230719000754",
-      "Source": "Genshin Impact"
+      "Source": "Genshin Impact",
+      "Faction":"Inazuma",
+      "Element":"Hydro"
+
     },
     {
       "Name": "Candace",
       "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/f/f3/Candace_Dynamic_Skin.gif/revision/latest?cb=20230719001444",
-      "Source": "Genshin Impact"
+      "Source": "Genshin Impact",
+      "Faction":"Sumeru",
+      "Element":"Hydro"
+
     },
     {
       "Name": "Diluc",
       "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/a/a1/Diluc_Dynamic_Skin.gif/revision/latest?cb=20230719000917",
-      "Source": "Genshin Impact"
+      "Source": "Genshin Impact",
+      "Faction":"Monstad",
+      "Element":"Pyro"
+
     },
     {
       "Name": "Xiangling",
       "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/a/af/Xiangling_Dynamic_Skin.gif/revision/latest?cb=20230719001418",
-      "Source": "Genshin Impact"
+      "Source": "Genshin Impact",
+      "Faction":"Liyue",
+      "Element":"Pyro"
+
     },
     {
       "Name": "Bennett",
       "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/c/ca/Bennett_Dynamic_Skin.gif/revision/latest?cb=20230719001450",
-      "Source": "Genshin Impact"
+      "Source": "Genshin Impact",
+      "Faction":"Monstad",
+      "Element":"Pyro"
+
     },
     {
       "Name": "Amber",
       "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/1/16/Amber_Dynamic_Skin.gif/revision/latest?cb=20230719001119",
-      "Source": "Genshin Impact"
+      "Source": "Genshin Impact",
+      "Faction":"Monstad",
+      "Element":"Pyro"
+
     },
     {
       "Name": "Yoimiya",
       "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/a/a1/Yoimiya_Dynamic_Skin.gif/revision/latest?cb=20230719001008",
-      "Source": "Genshin Impact"
+      "Source": "Genshin Impact",
+      "Faction":"Inazuma",
+      "Element":"Pyro"
+
     },
     {
       "Name": "Klee",
       "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/5/56/Klee_Dynamic_Skin.gif/revision/latest?cb=20230719001240",
-      "Source": "Genshin Impact"
+      "Source": "Genshin Impact",
+      "Faction":"Monstad",
+      "Element":"Pyro"
+
     },
     {
       "Name": "Hu Tao",
       "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/e/e6/Hu_Tao_Dynamic_Skin.gif/revision/latest?cb=20230719001221",
-      "Source": "Genshin Impact"
+      "Source": "Genshin Impact",
+      "Faction":"Liyue",
+      "Element":"Pyro"
+
     },
     {
       "Name": "Yanfei",
       "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/7/73/Yanfei_Dynamic_Skin.gif/revision/latest?cb=20230719000857",
-      "Source": "Genshin Impact"
+      "Source": "Genshin Impact",
+      "Faction":"Liyue",
+      "Element":"Pyro"
+
     },
     {
       "Name": "Fischl",
       "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/e/ec/Fischl_Dynamic_Skin.gif/revision/latest?cb=20221228122158",
-      "Source": "Genshin Impact"
+      "Source": "Genshin Impact",
+      "Faction":"Monstad",
+      "Element":"Electro"
+
     },
     {
       "Name": "Razor",
       "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Razor_Dynamic_Skin.gif/revision/latest?cb=20230719000938",
-      "Source": "Genshin Impact"
+      "Source": "Genshin Impact",
+      "Faction":"Monstad",
+      "Element":"Electro"
+
     },
     {
       "Name": "Keqing",
       "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Keqing_Dynamic_Skin.gif/revision/latest?cb=20230719001410",
-      "Source": "Genshin Impact"
+      "Source": "Genshin Impact",
+      "Faction":"Liyue",
+      "Element":"Electro"
+
     },
     {
       "Name": "Cyno",
       "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/3/37/Cyno_Dynamic_Skin.gif/revision/latest?cb=20230719000841",
-      "Source": "Genshin Impact"
+      "Source": "Genshin Impact",
+      "Faction":"Sumeru",
+      "Element":"Electro"
+
     },
     {
       "Name": "Beidou",
       "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/2/2d/Beidou_Dynamic_Skin.gif/revision/latest?cb=20230719001436",
-      "Source": "Genshin Impact"
+      "Source": "Genshin Impact",
+      "Faction":"Liyue",
+      "Element":"Electro"
+
     },
     {
       "Name": "Kujou Sara",
       "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Kujou_Sara_Dynamic_Skin.gif/revision/latest?cb=20230719001400",
-      "Source": "Genshin Impact"
+      "Source": "Genshin Impact",
+      "Faction":"Inazuma",
+      "Element":"Electro"
+
     },
     {
       "Name": "Raiden Shogun",
       "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/9/9d/Raiden_Shogun_Dynamic_Skin.gif/revision/latest?cb=20230719000953",
-      "Source": "Genshin Impact"
+      "Source": "Genshin Impact",
+      "Faction":"Inazuma",
+      "Element":"Electro"
+
     },
     {
       "Name": "Yae Miko",
       "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/8/80/Yae_Miko_Dynamic_Skin.gif/revision/latest?cb=20230719000910",
-      "Source": "Genshin Impact"
+      "Source": "Genshin Impact",
+      "Faction":"Inazuma",
+      "Element":"Electro"
+
     },
     {
       "Name": "Sucrose",
       "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Sucrose_Dynamic_Skin.gif/revision/latest?cb=20230719001034",
-      "Source": "Genshin Impact"
+      "Source": "Genshin Impact",
+      "Faction":"Monstad",
+      "Element":"Anemo"
+
     },
     {
       "Name": "Jean",
       "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/1/12/Jean_Dynamic_Skin.gif/revision/latest?cb=20230719001043",
-      "Source": "Genshin Impact"
+      "Source": "Genshin Impact",
+      "Faction":"Monstad",
+      "Element":"Anemo"
+
     },
     {
       "Name": "Venti",
       "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Venti_Dynamic_Skin.gif/revision/latest?cb=20230719001017",
-      "Source": "Genshin Impact"
+      "Source": "Genshin Impact",
+      "Faction":"Monstad",
+      "Element":"Anemo"
+
     },
     {
         "Name": "Xiao",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/7/7a/Xiao_Dynamic_Skin.gif/revision/latest?cb=20230719001342",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"Liyue",
+        "Element":"Anemo"
+
       },
       {
         "Name": "Kaedehara Kazuha",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Kaedehara_Kazuha_Dynamic_Skin.gif/revision/latest?cb=20230719001326",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"Inazuma",
+        "Element":"Anemo"
+
       },
       {
         "Name": "Ningguang",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/6/6d/Ningguang_Dynamic_Skin.gif/revision/latest?cb=20230719000818",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"Liyue",
+        "Element":"Geo"
+
       },
       {
         "Name": "Noelle",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Noelle_Dynamic_Skin.gif/revision/latest?cb=20230719001308",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"Monstad",
+        "Element":"Geo"
+
       },
       {
         "Name": "Zhongli",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/d/d7/Zhongli_Dynamic_Skin.gif/revision/latest?cb=20230719000851",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"Liyue",
+        "Element":"Geo"
+
       },
       {
         "Name": "Arataki Itto",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/a/a1/Arataki_Itto_Dynamic_Skin.gif/revision/latest?cb=20230719000927",
-        "Source":"Genshin Impact"
+        "Source":"Genshin Impact",
+        "Faction":"Inazuma",
+        "Element":"Geo"
       },
       {
         "Name": "Collei",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/4/4d/Collei_Dynamic_Skin.gif/revision/latest?cb=20230719001025",
-        "Source":"Genshin Impact"
+        "Source":"Genshin Impact",
+        "Faction":"Sumeru",
+        "Element":"Dendro"
       },
       {
         "Name": "Tighnari",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/a/a8/Tighnari_Dynamic_Skin.gif/revision/latest?cb=20230719000744",
-        "Source":"Genshin Impact"
+        "Source":"Genshin Impact",
+        "Faction":"Sumeru",
+        "Element":"Dendro"
       },
       {
         "Name": "Nahida",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/d/d2/Nahida_Dynamic_Skin.gif/revision/latest?cb=20230719000834",
-        "Source":"Genshin Impact"
+        "Source":"Genshin Impact",
+        "Faction":"Sumeru",
+        "Element":"Dendro"
       },
       {
         "Name": "Fatui Cryo Cicin Mage",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/3/3f/Fatui_Cryo_Cicin_Mage_Dynamic_Skin.gif/revision/latest?cb=20230719001126",
-        "Source":"Genshin Impact"
-      },
-      {
-        "Name": "Rhodeia of Loch",
-        "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Rhodeia_of_Loch_Dynamic_Skin.gif/revision/latest?cb=20230719001213",
-        "Source":"Genshin Impact"
+        "Source":"Genshin Impact",
+        "Faction":"Snezhnaya",
+        "Element":"Cryo"
       },
       {
         "Name": "Mirror Maiden",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Mirror_Maiden_Dynamic_Skin.gif/revision/latest?cb=20230719000735",
-        "Source":"Genshin Impact"
+        "Source":"Genshin Impact",
+        "Faction":"Snezhnaya",
+        "Element":"Hydro"
       },
       {
         "Name": "Fatui Pyro Agent",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/4/40/Fatui_Pyro_Agent_Dynamic_Skin.gif/revision/latest?cb=20230719001259",
-        "Source":"Genshin Impact"
+        "Source":"Genshin Impact",
+        "Faction":"Snezhnaya",
+        "Element":"Pyro"
       },
       {
         "Name": "Abyss Lector: Fathomless Flames",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/0/05/Abyss_Lector_Fathomless_Flames_Dynamic_Skin.gif/revision/latest?cb=20230719000947",
-        "Source":"Genshin Impact"
+        "Source":"Genshin Impact",
+        "Faction":"The Abyss",
+        "Element":"Pyro"
       },
       {
         "Name": "Electro Hypostasis",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/7/78/Electro_Hypostasis_Dynamic_Skin.gif/revision/latest?cb=20230719001157",
-        "Source":"Genshin Impact"
+        "Source":"Genshin Impact",
+        "Faction":"Monster",
+        "Element":"Electro"
       },
       {
         "Name": "Maguu Kenki",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/3/3f/Maguu_Kenki_Dynamic_Skin.gif/revision/latest?cb=20230719001051",
-        "Source":"Genshin Impact"
+        "Source":"Genshin Impact",
+        "Faction":"Monster",
+        "Element":"Anemo"
       },
       {
         "Name": "Stonehide Lawachurl",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/8/81/Stonehide_Lawachurl_Dynamic_Skin.gif/revision/latest?cb=20230719001228",
-        "Source":"Genshin Impact"
+        "Source":"Genshin Impact",
+        "Faction":"Hilichurl/Monster",
+        "Element":"Geo"
       },
       {
         "Name": "Jadeplume Terrorshroom",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Jadeplume_Terrorshroom_Dynamic_Skin.gif/revision/latest?cb=20230719001249",
-        "Source":"Genshin Impact"
+        "Source":"Genshin Impact",
+        "Faction":"Monster",
+        "Element":"Dendro"
       },
       {
         "Name": "Anemo Samachurl",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Anemo_Samachurl_Character_Card.png/revision/latest?cb=20221207062031",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"Hilichurl/Monster",
+        "Element":"Anemo"
+
       },
       {
         "Name": "Blazing Axe Mitachurl",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Blazing_Axe_Mitachurl_Character_Card.png/revision/latest?cb=20221207062032",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"Hilichurl/Monster",
+        "Element":"Pyro"
+
       },
       {
         "Name": "Crackling Axe Mitachurl",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/2/20/Crackling_Axe_Mitachurl_Character_Card.png/revision/latest?cb=20221207062047",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"Hilichurl/Monster",
+        "Element":"Electro"
+
       },
       {
         "Name": "Cryo Abyss Mage",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Cryo_Abyss_Mage_Character_Card.png/revision/latest?cb=20221207062101",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"The Abyss",
+        "Element":"Cryo"
+
       },
       {
         "Name": "Cryo Hilichurl Shooter",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/2/28/Cryo_Hilichurl_Shooter_Character_Card.png/revision/latest?cb=20221207061907",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"Hilichurl/Monster",
+        "Element":"Cryo"
+
       },
       {
         "Name": "Dendro Samachurl",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Dendro_Samachurl_Character_Card.png/revision/latest?cb=20221207061918",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"Hilichurl/Monster",
+        "Element":"Dendro"
+
       },
       {
         "Name": "Electro Abyss Mage",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/2/25/Electro_Abyss_Mage_Character_Card.png/revision/latest?cb=20230525003554",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"The Abyss",
+        "Element":"Electro"
+
       },
       {
         "Name": "Electro Hilichurl Shooter",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Electro_Hilichurl_Shooter_Character_Card.png/revision/latest?cb=20221207061920",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"Hilichurl/Monster",
+        "Element":"Electro"
+
       },
       {
         "Name": "Electro Slime",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/2/27/Electro_Slime_Character_Card.png/revision/latest?cb=20221207061933",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"Monster",
+        "Element":"Electro"
+
       },
       {
         "Name": "Fatui Skirmisher - Anemoboxer Vanguard",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/6/62/Fatui_Skirmisher_-_Anemoboxer_Vanguard_Character_Card.png/revision/latest?cb=20221207061935",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"Snezhnaya",
+        "Element":"Anemo"
+
       },
       {
         "Name": "Fatui Skirmisher - Cryogunner Legionnaire",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/6/6e/Fatui_Skirmisher_-_Cryogunner_Legionnaire_Character_Card.png/revision/latest?cb=20230525003557",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"Snezhnaya",
+        "Element":"Cryo"
+
       },
       {
         "Name": "Fatui Skirmisher - Electrohammer Vanguard",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/b/bb/Fatui_Skirmisher_-_Electrohammer_Vanguard_Character_Card.png/revision/latest?cb=20230525003559",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"Snezhnaya",
+        "Element":"Electro"
+
       },
       {
         "Name": "Fatui Skirmisher - Geochanter Bracer",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/e/e3/Fatui_Skirmisher_-_Geochanter_Bracer_Character_Card.png/revision/latest?cb=20230525003601",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"Snezhnaya",
+        "Element":"Geo"
+
       },
       {
         "Name": "Fatui Skirmisher - Hydrogunner Legionnaire",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/3/3e/Fatui_Skirmisher_-_Hydrogunner_Legionnaire_Character_Card.png/revision/latest?cb=20221207061937",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"Snezhnaya",
+        "Element":"Hydro"
+
       },
       {
         "Name": "Fatui Skirmisher - Pyroslinger Bracer",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/e/e6/Fatui_Skirmisher_-_Pyroslinger_Bracer_Character_Card.png/revision/latest?cb=20230525003603",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"Snezhnaya",
+        "Element":"Pyro"
+
       },
       {
         "Name": "Geo Samachurl",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/3/31/Geo_Samachurl_Character_Card.png/revision/latest?cb=20230525003604",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"Hilichurl/Monster",
+        "Element":"Geo"
+
       },
       {
         "Name": "Grounded Geoshroom",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/e/e5/Grounded_Geoshroom_Character_Card.png/revision/latest?cb=20230525003607",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"Monster",
+        "Element":"Geo"
+
       },
       {
         "Name": "Grounded Hydroshroom",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/4/44/Grounded_Hydroshroom_Character_Card.png/revision/latest?cb=20230525125703",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"Monster",
+        "Element":"Hydro"
+
       },
       {
         "Name": "Hilichurl Berserker",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/e/ee/Hilichurl_Berserker_Character_Card.png/revision/latest?cb=20221207061939",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"Hilichurl/Monster",
+        "Element":"Pyro"
+
       },
       {
         "Name": "Hilichurl Fighter",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/e/e9/Hilichurl_Fighter_Character_Card.png/revision/latest?cb=20221207061941",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"Hilichurl/Monster",
+        "Element":"None"
+
       },
       {
         "Name": "Hilichurl Shooter",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/6/68/Hilichurl_Shooter_Character_Card.png/revision/latest?cb=20221207061943",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"Hilichurl/Monster",
+        "Element":"None"
+
       },
       {
         "Name": "Hydro Abyss Mage",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/9/9f/Hydro_Abyss_Mage_Character_Card.png/revision/latest?cb=20221207061959",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"The Abyss",
+        "Element":"Hydro"
+
       },
       {
         "Name": "Hydro Samachurl",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/b/b9/Hydro_Samachurl_Character_Card.png/revision/latest?cb=20221207062001",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"Hilichurl/Monster",
+        "Element":"Hydro"
+
       },
       {
         "Name": "Hydro Slime",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/c/ca/Hydro_Slime_Character_Card.png/revision/latest?cb=20221207062004",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"Monster",
+        "Element":"Hydro"
+
       },
       {
         "Name": "Ice Shieldwall Mitachurl",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/f/f2/Ice_Shieldwall_Mitachurl_Character_Card.png/revision/latest?cb=20221207062006",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"Hilichurl/Monster",
+        "Element":"Cryo"
+
       },
       {
         "Name": "Kairagi: Dancing Thunder",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/c/c1/Kairagi_Dancing_Thunder_Character_Card.png/revision/latest?cb=20221207062008",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"Ronin",
+        "Element":"Electro"
+
       },
       {
         "Name": "Kairagi: Fiery Might",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Kairagi_Fiery_Might_Character_Card.png/revision/latest?cb=20221207062010",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"Ronin",
+        "Element":"Pyro"
+
       },
       {
         "Name": "Nobushi: Hitsukeban",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Nobushi_Hitsukeban_Character_Card.png/revision/latest?cb=20221212130708",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"Ronin",
+        "Element":"None"
+
       },
       {
         "Name": "Nobushi: Jintouban",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/2/2d/Nobushi_Jintouban_Character_Card.png/revision/latest?cb=20221212130712",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"Ronin",
+        "Element":"None"
+
       },
       {
         "Name": "Nobushi: Kikouban",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Nobushi_Kikouban_Character_Card.png/revision/latest?cb=20221212130704",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"Ronin",
+        "Element":"Electro"
+
       },
       {
         "Name": "Pyro Abyss Mage",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Pyro_Abyss_Mage_Character_Card.png/revision/latest?cb=20221207062018",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"The Abyss",
+        "Element":"Pyro"
+
       },
       {
         "Name": "Rock Shieldwall Mitachurl",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Rock_Shieldwall_Mitachurl_Character_Card.png/revision/latest?cb=20230525001556",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"Hilichurl/Monster",
+        "Element":"Geo"
+
       },
       {
         "Name": "Rockfond Rifthound",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Rockfond_Rifthound_Character_Card.png/revision/latest?cb=20230525001607",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"The Abyss",
+        "Element":"Geo"
+
       },
       {
         "Name": "Winged Cryoshroom",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/f/fb/Winged_Cryoshroom_Character_Card.png/revision/latest?cb=20230525104633",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"Monster",
+        "Element":"Cryo"
+
       },
       {
         "Name": "Winged Dendroshroom",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/2/24/Winged_Dendroshroom_Character_Card.png/revision/latest?cb=20221219133626",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"Monster",
+        "Element":"Dendro"
+
       },
       {
         "Name": "Wooden Shieldwall Mitachurl",
         "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/b/b8/Wooden_Shieldwall_Mitachurl_Character_Card.png/revision/latest?cb=20230525003612",
-        "Source": "Genshin Impact"
+        "Source": "Genshin Impact",
+        "Faction":"Hilichurl/Monster",
+        "Element":"Dendro"
+
       }
 
 ]
