@@ -9,6 +9,25 @@
   <p align="center">
   <a href="https://heroku.com/deploy?template=https://github.com/NemasisDarkX/Genshin-TCG-Card-API"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
 </p>
+
+<p>Or You Can Deploy On Terminal</p>
+<p>First Clone The Project</p>
+
+```bash
+$ git clone https://github.com/NemasisDarkX/Genshin-TCG-Card-API.git
+```
+
+<p>To Install The Packages</p>
+
+```bash
+$ npm i
+```
+<p>To Start The API</p>
+
+```bash
+$ npm start
+```
+
 <p>base url</p>
 
 ```bash
