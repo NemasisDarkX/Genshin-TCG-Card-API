@@ -675,6 +675,30 @@
         "Faction":"Hilichurl/Monster",
         "Element":"Dendro"
 
+      },
+    {
+        "Name": "Albedo",
+        "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Albedo_Dynamic_Skin.gif/revision/latest?cb=20230816205124",
+        "Source": "Genshin Impact",
+        "Faction":"Mondstadt",
+        "Element":"Geo"
+
+      },
+    {
+        "Name": "Lisa",
+        "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/8/8e/Lisa_Dynamic_Skin.gif/revision/latest?cb=20230816205128",
+        "Source": "Genshin Impact",
+        "Faction":"Mondstadt",
+        "Element":"Electro"
+
+      },
+    {
+        "Name": "Qiqi",
+        "ImgLink": "https://static.wikia.nocookie.net/gensin-impact/images/8/81/Qiqi_Dynamic_Skin.gif/revision/latest?cb=20230816205000",
+        "Source": "Genshin Impact",
+        "Faction":"Liyue",
+        "Element":"Cryo"
+
       }
 
 ]
