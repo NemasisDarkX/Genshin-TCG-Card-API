@@ -17,9 +17,15 @@
 <p>For Random Card</p>
 
 ```bash
+$ http://localhost:3000/random
+```
+
+<p>For Random Card Based On Element</p>
+
+```bash
 $ http://localhost:3000/random-element/<element_name_here>
   ```
-<p>For Random Card Based On Element</p>
+<p>For Card Of Specific Character</p>
 
 ```bash
 $ http://localhost:3000/character/<character_name_here>
