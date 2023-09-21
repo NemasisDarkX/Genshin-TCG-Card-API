@@ -1,0 +1,28 @@
+{
+  "name": "genshin-tcg-card API",
+  "version": "1.0.0",
+  "description": "Api for genshin tcg cards",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NemasisDarkX/Genshin-TCG-Card-API"
+  },
+  "keywords": [
+    "Genshin",
+    "TCG",
+    "API"
+  ],
+  "author": "GLITCH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NemasisDarkX/Genshin-TCG-Card API/issues"
+  },
+  "homepage": "https://github.com/NemasisDarkX/Genshin-TCG-Card API#readme",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "express": "^4.18.2"
+  }
+}

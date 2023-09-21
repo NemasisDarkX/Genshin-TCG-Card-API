@@ -1,0 +1,42 @@
+{
+
+    "name":"tcg-api",
+ 
+    "description":"Api for genshin tcg cards",
+ 
+    "keywords":[
+ 
+       "Genshin",
+ 
+       "TCG"
+ 
+    ],
+ 
+    "website":"https://github.com/NemasisDarkX/Genshin-TCG-Card-API#readme",
+ 
+    "repository":"https://github.com/NemasisDarkX/Genshin-TCG-Card-API.git",
+ 
+    "logo":"https://avatars.githubusercontent.com/u/68656546?v=4a",
+ 
+    "success_url":"/",
+    "env":{
+ 
+       "PORT":{
+ 
+          "description":"PORT FOR PROCESS",
+ 
+          "required":true
+       }
+       },
+ 
+    "buildpacks":[
+ 
+       {
+ 
+          "url":"heroku/nodejs"
+ 
+       }
+ 
+    ]
+ 
+ }
