@@ -51,4 +51,4 @@ $ http://localhost:3000/character/<character_name_here>
 ```
 
 
-  <p>I do not own the images provided in the json file</p>
+  <p><b>I do not own the images provided in the json file</b></p>
