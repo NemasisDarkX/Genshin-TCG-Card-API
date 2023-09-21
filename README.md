@@ -10,9 +10,9 @@
   <a href="https://heroku.com/deploy?template=https://github.com/NemasisDarkX/Play-api"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
 </p>
 <p>base url</p>
-$http://localhost:3000/
+$ http://localhost:3000/
 <p>For Random Card</p>
-$http://localhost:3000/random-element/<element_name_here>
+$ http://localhost:3000/random-element/<element_name_here>
 <p>For Random Card Based On Element</p>
 
 
