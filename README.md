@@ -1,6 +1,6 @@
 <p align=centre>
   
-  # Genshin-TCG-Card API
+  # Genshin-TCG-Card API   ![vercel](http://therealsujitk-vercel-badge.vercel.app/?app=therealsujitk-vercel-badge&style=for-the-badge&logo=false)
   [![Viewer Count](https://hits.dwyl.com/NemasisDarkX/NemasisDarkX/Genshin-TCG-Card-API.svg)](https://hits.dwyl.com/NemasisDarkX/Genshin-TCG-Card-API)
   <p><b>Scrapped Genshin TCG Card API</b></p>
   <p>This file only includes obtainable and unobtainable cards</p>
@@ -70,8 +70,6 @@ $ http://localhost:3000/character/<character_name_here>
 
 
   <p><b>I do not own the images provided in the json file</b></p>
-
-  ![vercel](http://therealsujitk-vercel-badge.vercel.app/?app=therealsujitk-vercel-badge&style=for-the-badge&logo=false)
   
 <p><b>If You Find This Helpful Consider Giving This Repo A ⭐ </b></p>
   
