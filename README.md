@@ -70,6 +70,6 @@ $ http://localhost:3000/character/<character_name_here>
 
   <p><b>I do not own the images provided in the json file</b></p>
 
-  http://therealsujitk-vercel-badge.vercel.app/?app=therealsujitk-vercel-badge&style=for-the-badge&logo=false
+  ![vercel]http://therealsujitk-vercel-badge.vercel.app/?app=therealsujitk-vercel-badge&style=for-the-badge&logo=false
 
   
