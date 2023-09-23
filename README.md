@@ -10,6 +10,21 @@
   <a href="https://heroku.com/deploy?template=https://github.com/NemasisDarkX/Genshin-TCG-Card-API"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
 </p>
 
+<p>And once you get the base url, use:</p>
+
+```bash
+ > <base_url>/random
+```
+
+```bash
+ > <base_url>/random-element/<element_name>
+```
+
+```bash
+ > <base_url>/character/<character_name>
+```
+
+
 <p>Or You Can Deploy On Terminal</p>
 <p>First Clone The Project</p>
 
