@@ -12,6 +12,17 @@
     <a href="https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fdatejer%2Fvercel-badge%2Ftree%2Fmaster" rel="nofollow"><img src="https://camo.githubusercontent.com/5e471e99e8e022cf454693e38ec843036ec6301e27ee1e1fa10325b1cb720584/68747470733a2f2f76657263656c2e636f6d2f627574746f6e" repo-name="https://github.com/NemasisDarkX/Genshin-TCG-Card-API" alt="Deploy with Vercel" data-canonical-src="https://vercel.com/button" style="max-width: 100%;"></a>
 </p>
 
+#Output
+
+```
+ {
+"Name":"Shenhe",
+"ImgLink":"https://static.wikia.nocookie.net/gensin-impact/images/1/13/Shenhe_Dynamic_Skin.gif/revision/latest?cb=20230719001001"
+,"Source":"Genshin Impact"
+,"Faction":"Liyue",
+"Element":"Cryo"
+}
+```
 
 <p>And once you get the base url, use:</p>
 
